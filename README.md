@@ -52,3 +52,7 @@ Classes are as listed below:
 41 = End of no passing
 42 = End of no passing by vehicles over 3.5 metric tons
 Citation J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Recognition Benchmark: A multi-class classification competition. In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011. @inproceedings{Stallkamp-IJCNN-2011, author = {Johannes Stallkamp and Marc Schlipsing and Jan Salmen and Christian Igel}, booktitle = {IEEE International Joint Conference on Neural Networks}, title = {The {G}erman {T}raffic {S}ign {R}ecognition {B}enchmark: A multi-class classification competition}, year = {2011}, pages = {1453--1460} }
+
+
+
+<img width="1224" alt="Screen Shot 2021-09-26 at 3 31 51 PM" src="https://user-images.githubusercontent.com/64805932/134822113-95fbef2c-d598-4d1d-9cf4-9f53f0874103.png">
