@@ -1,4 +1,4 @@
-<h1Traffic Sign Recognizer>
+<h1>Traffic Sign Recognizer</h1>
 
 This deep learning model utilizes Tensorflow to recognize traffic signs which could be used to deploy in self driving cars.
 
